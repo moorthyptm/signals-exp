@@ -4,7 +4,7 @@ import { RouterModule } from '@angular/router';
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports:[RouterModule],
+  imports: [RouterModule],
   template: `
     <header class="p-4 bg-lime-300">
       <div>
@@ -15,12 +15,12 @@ import { RouterModule } from '@angular/router';
         <nav class=" float-right">
           <ul class="flex">
             <li class="mr-6">
-              <a class="text-blue-500 hover:text-blue-800" href="#"
+              <a class="text-blue-500 hover:text-blue-800" routerLink=""
                 >Primitive</a
               >
             </li>
             <li class="mr-6">
-              <a class="text-blue-500 hover:text-blue-800" href="#"
+              <a class="text-blue-500 hover:text-blue-800" routerLink="/ref"
                 >Reference</a
               >
             </li>

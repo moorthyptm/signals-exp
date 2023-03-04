@@ -1,6 +1,6 @@
 # SignalsExp
 
-Ref `https://github.com/angular/angular/discussions/49090`  and `https://angular-signals.netlify.app/`
+Ref [https://github.com/angular/angular/discussions/49090](https://github.com/angular/angular/discussions/49090) and [https://angular-signals.netlify.app/](https://angular-signals.netlify.app/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0-next.2.
 
